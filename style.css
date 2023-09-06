@@ -80,3 +80,8 @@ header .menu-right a:hover {
     font-weight: normal;
   }
 
+.inprogress {
+    margin-top: 100px;
+    text-align: center;
+}
+
